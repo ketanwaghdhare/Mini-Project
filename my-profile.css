@@ -1,0 +1,430 @@
+.dashboard2,
+.my-profile2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 474px;
+  left: 77px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 4px;
+  line-height: 21px;
+  font-weight: 700;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 194px;
+  height: 32px;
+}
+.dashboard2 {
+  top: 366px;
+  left: 82.5px;
+  width: 152px;
+  height: 43px;
+}
+.picsart-24-03-15-17-26-10-296-icon1 {
+  position: absolute;
+  top: 41px;
+  left: 43.5px;
+  width: 180px;
+  height: 185px;
+  object-fit: cover;
+}
+.edit-your-information {
+  position: absolute;
+  height: 3.03%;
+  width: 17.13%;
+  top: 13.87%;
+  left: 31.11%;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-darkslateblue);
+}
+.full-name,
+.hey-user1 {
+  position: absolute;
+  left: 32.37%;
+  display: inline-block;
+}
+.hey-user1 {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-sm);
+  background-color: transparent;
+  height: 2.12%;
+  width: 5.19%;
+  top: 21.87%;
+  font-style: italic;
+  color: var(--color-darkslateblue);
+  text-align: left;
+}
+.full-name {
+  height: 1.51%;
+  width: 5.9%;
+  top: 20.05%;
+  letter-spacing: 0.26em;
+}
+.my-profile-child {
+  border: 2px solid var(--color-cornflowerblue);
+  background-color: transparent;
+  outline: 0;
+  position: absolute;
+  height: 5.85%;
+  width: 36.92%;
+  top: 19.14%;
+  right: 31.97%;
+  bottom: 75.01%;
+  left: 31.11%;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+}
+.college-of-engineering,
+.college1 {
+  position: absolute;
+  display: inline-block;
+}
+.college-of-engineering {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-sm);
+  background-color: transparent;
+  height: 2.12%;
+  width: 12.42%;
+  top: 31.93%;
+  left: 32.41%;
+  font-style: italic;
+  color: var(--color-darkslateblue);
+  text-align: left;
+}
+.college1 {
+  height: 1.51%;
+  width: 4.32%;
+  top: 29.91%;
+  left: 32.37%;
+  letter-spacing: 0.26em;
+}
+.my-profile-item {
+  border: 2px solid var(--color-cornflowerblue);
+  background-color: transparent;
+  outline: 0;
+  position: absolute;
+  height: 5.85%;
+  width: 36.92%;
+  top: 29%;
+  right: 31.97%;
+  bottom: 65.15%;
+  left: 31.11%;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+}
+.position,
+.student1 {
+  position: absolute;
+  left: 32.37%;
+  display: inline-block;
+}
+.student1 {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-sm);
+  background-color: transparent;
+  height: 2.12%;
+  width: 4.32%;
+  top: 42.57%;
+  font-style: italic;
+  color: var(--color-darkslateblue);
+  text-align: left;
+}
+.position {
+  height: 1.51%;
+  width: 5.19%;
+  top: 40.75%;
+  letter-spacing: 0.26em;
+}
+.my-profile-inner {
+  border: 2px solid var(--color-cornflowerblue);
+  background-color: transparent;
+  outline: 0;
+  position: absolute;
+  height: 5.85%;
+  width: 36.92%;
+  top: 39.84%;
+  right: 31.97%;
+  bottom: 54.31%;
+  left: 31.11%;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+}
+.edit-your-credentials {
+  position: absolute;
+  height: 3.03%;
+  width: 16.97%;
+  top: 50.2%;
+  left: 31.11%;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-darkslateblue);
+}
+.email,
+.xyz123gmailcom {
+  position: absolute;
+  left: 32.37%;
+  display: inline-block;
+}
+.xyz123gmailcom {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-sm);
+  background-color: transparent;
+  height: 2.12%;
+  width: 10.6%;
+  top: 57.9%;
+  font-style: italic;
+  color: var(--color-darkslateblue);
+  text-align: left;
+}
+.email {
+  height: 1.51%;
+  width: 3.22%;
+  top: 56.08%;
+  letter-spacing: 0.26em;
+}
+.my-profile-child1 {
+  border: 2px solid var(--color-cornflowerblue);
+  background-color: transparent;
+  outline: 0;
+  position: absolute;
+  height: 5.85%;
+  width: 36.92%;
+  top: 55.18%;
+  right: 31.97%;
+  bottom: 38.97%;
+  left: 31.11%;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+}
+.password1,
+.xxxxxxxxx {
+  position: absolute;
+  left: 32.37%;
+  display: inline-block;
+}
+.xxxxxxxxx {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-sm);
+  background-color: transparent;
+  height: 2.12%;
+  width: 23.97%;
+  top: 68.45%;
+  font-style: italic;
+  color: var(--color-darkslateblue);
+  text-align: left;
+}
+.password1 {
+  height: 1.51%;
+  width: 6.05%;
+  top: 66.63%;
+  letter-spacing: 0.26em;
+}
+.my-profile-child2 {
+  border: 2px solid var(--color-cornflowerblue);
+  background-color: transparent;
+  outline: 0;
+  position: absolute;
+  height: 5.85%;
+  width: 36.92%;
+  top: 65.72%;
+  right: 31.97%;
+  bottom: 28.43%;
+  left: 31.11%;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+}
+.my-profile-child3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-blueviolet);
+  position: absolute;
+  height: 5.75%;
+  width: 16.5%;
+  top: 76.07%;
+  right: 52.39%;
+  bottom: 18.17%;
+  left: 31.11%;
+  box-shadow: 0 4px 6px rgba(163, 161, 255, 0.16);
+}
+.save-changes {
+  background-color: transparent;
+  height: 1.51%;
+  width: 8.09%;
+  top: 78.22%;
+  left: 35.56%;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.23em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.my-profile-child4,
+.remove-account,
+.save-changes {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.my-profile-child4 {
+  background-color: #ff5353;
+  height: 5.75%;
+  width: 17.83%;
+  top: 76.07%;
+  right: 31.54%;
+  bottom: 18.17%;
+  left: 50.63%;
+  box-shadow: 0 4px 6px rgba(163, 161, 255, 0.16);
+}
+.remove-account {
+  background-color: transparent;
+  height: 1.51%;
+  width: 9.82%;
+  top: 78.13%;
+  left: 55.42%;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.23em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.my-profile-child5 {
+  position: absolute;
+  top: 6px;
+  left: 1090px;
+  border-radius: var(--br-41xl);
+  width: 328px;
+  height: 417px;
+}
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 25.19%;
+  width: 41.6%;
+  top: 37.41%;
+  right: 16.8%;
+  bottom: 37.41%;
+  left: 41.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon3 {
+  height: 66.67%;
+  width: 33.2%;
+  top: 16.67%;
+  right: 50%;
+  bottom: 16.67%;
+  left: 16.8%;
+}
+.logout-svgrepo-com-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 41px;
+  left: 1366px;
+  width: 25px;
+  height: 27px;
+  overflow: hidden;
+}
+.icons,
+.image-12-icon,
+.write-icon {
+  position: absolute;
+  width: 26.1px;
+  height: 24.1px;
+}
+.write-icon {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.icons,
+.image-12-icon {
+  top: 326.5px;
+  left: 1130.9px;
+}
+.image-12-icon {
+  top: 87px;
+  left: 1199px;
+  width: 109px;
+  height: 110px;
+  object-fit: cover;
+}
+.hey-user2 {
+  font-size: var(--font-size-base);
+  outline: 0;
+  top: 215px;
+  left: 1218px;
+  color: var(--color-darkslateblue);
+}
+.hey-user2,
+.logout1,
+.student2 {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-poppins);
+  position: absolute;
+  font-weight: 700;
+  text-align: left;
+}
+.logout1 {
+  cursor: pointer;
+  padding: 0;
+  top: 39px;
+  left: 1125px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue);
+  display: inline-block;
+}
+.student2 {
+  font-size: var(--font-size-smi);
+  outline: 0;
+  top: 244px;
+  left: 1227px;
+  color: var(--color-cornflowerblue);
+}
+.review-icon {
+  position: absolute;
+  top: 417px;
+  left: 1132px;
+  width: 26px;
+  height: 27px;
+}
+.my-profile1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-cornflowerblue);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,309 @@
+.dashboard5, .my-profile5 {
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  letter-spacing: 4px;
+  font-weight: 700;
+  line-height: 21px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  background-color: #0000;
+  border: 0;
+  align-items: center;
+  width: 194px;
+  height: 32px;
+  padding: 0;
+  display: flex;
+  position: absolute;
+  top: 474px;
+  left: 77px;
+}
+
+.dashboard5 {
+  width: 152px;
+  height: 43px;
+  top: 366px;
+  left: 82.5px;
+}
+
+.picsart-24-03-15-17-26-10-296-icon4 {
+  object-fit: cover;
+  width: 180px;
+  height: 185px;
+  position: absolute;
+  top: 41px;
+  left: 43.5px;
+}
+
+.learning3, .p {
+  margin: 0;
+}
+
+.learning-txt {
+  width: 100%;
+}
+
+.learning2 {
+  font-size: var(--font-size-11xl);
+  letter-spacing: .5px;
+  line-height: 24px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  align-items: center;
+  width: 255px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  top: 52px;
+  left: 351px;
+}
+
+.learning-child, .learning-inner, .learning-item {
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 922px;
+  height: 106px;
+  position: absolute;
+  left: 384px;
+}
+
+.learning-child {
+  margin: 0;
+  top: 187px;
+}
+
+.learning-inner, .learning-item {
+  top: 500px;
+}
+
+.learning-inner {
+  top: 339px;
+}
+
+.title, .title1 {
+  color: inherit;
+  font-weight: 300;
+  text-decoration: none;
+  left: 539px;
+}
+
+.title {
+  width: 614px;
+  display: inline-block;
+  position: absolute;
+  top: 228px;
+}
+
+.title1 {
+  width: 740px;
+  top: 541px;
+}
+
+.title1, .title2, .view, .view1 {
+  display: inline-block;
+  position: absolute;
+}
+
+.title2 {
+  color: inherit;
+  width: 740px;
+  font-weight: 300;
+  text-decoration: none;
+  top: 380px;
+  left: 539px;
+}
+
+.view, .view1 {
+  cursor: pointer;
+  font-size: var(--font-size-3xs);
+  letter-spacing: .23em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+  background-color: #0000;
+  border: 0;
+  width: 95px;
+  padding: 0;
+  top: 232px;
+  left: 1153px;
+}
+
+.view1 {
+  top: 541px;
+}
+
+.coding-1-icon, .html-2-icon, .python-1-1 {
+  object-fit: cover;
+  width: 93px;
+  height: 95px;
+  position: absolute;
+  top: 192px;
+  left: 393px;
+}
+
+.coding-1-icon, .python-1-1 {
+  width: 78px;
+  height: 80px;
+  top: 352px;
+}
+
+.coding-1-icon {
+  width: 77px;
+  height: 84px;
+  top: 514px;
+  left: 394px;
+}
+
+.learning-child1 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 922px;
+  height: 106px;
+  position: absolute;
+  top: 675px;
+  left: 384px;
+}
+
+.title3 {
+  color: inherit;
+  width: 740px;
+  font-weight: 300;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  top: 716px;
+  left: 539px;
+}
+
+.learning-child2 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 922px;
+  height: 106px;
+  position: absolute;
+  top: 858px;
+  left: 384px;
+}
+
+.image-33-icon1 {
+  object-fit: cover;
+  width: 96px;
+  height: 68px;
+  position: absolute;
+  top: 876px;
+  left: 404px;
+}
+
+.title4, .view2 {
+  display: inline-block;
+  position: absolute;
+  top: 899px;
+}
+
+.title4 {
+  color: inherit;
+  width: 740px;
+  font-weight: 300;
+  text-decoration: none;
+  left: 539px;
+}
+
+.view2 {
+  cursor: pointer;
+  font-size: var(--font-size-3xs);
+  letter-spacing: .23em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+  background-color: #0000;
+  border: 0;
+  width: 95px;
+  padding: 0;
+  left: 1153px;
+}
+
+.learning-child3 {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-white);
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  outline: 0;
+  width: 465px;
+  height: 53px;
+  position: absolute;
+  top: 36px;
+  left: 705px;
+}
+
+.shape-icon1 {
+  width: 70.69%;
+  max-width: 100%;
+  height: 70.85%;
+  max-height: 100%;
+  position: absolute;
+  inset: 12.54% 16.9% 16.61% 12.41%;
+  overflow: hidden;
+}
+
+.curved-search1, .search1 {
+  background-color: #0000;
+  border: 0;
+  position: absolute;
+}
+
+.curved-search1 {
+  cursor: pointer;
+  width: 29px;
+  height: 29.5px;
+  padding: 0;
+  top: 48px;
+  left: 1122px;
+}
+
+.search1 {
+  font-weight: 300;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  text-align: left;
+  outline: 0;
+  width: 390px;
+  height: 20px;
+  font-style: italic;
+  display: inline-block;
+  top: 53px;
+  left: 722px;
+}
+
+.image-31-icon1 {
+  object-fit: cover;
+  width: 96px;
+  height: 68px;
+  position: absolute;
+  top: 701px;
+  left: 404px;
+}
+
+.learning1 {
+  border-radius: var(--br-41xl);
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=learning.c8cfc450.css.map */

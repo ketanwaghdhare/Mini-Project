@@ -30,12 +30,13 @@
   flex-shrink: 0;
 }
 .login-wrapper {
+  margin-left: 40px;
   width: 283px;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 65px;
+  padding: 0 55px;
   box-sizing: border-box;
 }
 .password-input,
@@ -295,7 +296,7 @@
 }
 .frame-group {
   flex: 1;
-  gap: 97px;
+  gap: 60px;
 }
 .frame-parent {
   align-self: stretch;

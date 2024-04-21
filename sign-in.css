@@ -1,4 +1,4 @@
-.image-2-icon {
+.image-2-icon1 {
   position: absolute;
   top: 0;
   left: 0;
@@ -23,38 +23,34 @@
   display: inline-block;
   text-shadow: 0 4px 4px rgba(255, 255, 255, 0.25);
 }
-.frame-child {
-  outline: 0;
-  background-color: var(--color-lavender);
-  top: 22.25%;
-  bottom: 65.49%;
-}
-.frame-child,
-.frame-inner,
-.frame-item {
-  border: 0;
+.frame-child1,
+.frame-child2,
+.frame-inner {
   position: absolute;
   height: 12.27%;
   width: 100%;
+  top: 22.25%;
   right: 0;
+  bottom: 65.49%;
   left: 0;
   border-radius: var(--br-3xs);
-}
-.frame-item {
-  outline: 0;
   background-color: var(--color-lavender);
+}
+.frame-child1,
+.frame-child2 {
   top: 40.75%;
   bottom: 46.99%;
 }
-.frame-inner {
+.frame-child2 {
   cursor: pointer;
+  border: 0;
   padding: 0;
   background-color: var(--color-royalblue-200);
   top: 59.25%;
   bottom: 28.48%;
 }
-.email-or-username,
-.password,
+.email-or-username1,
+.password1,
 .sign-in2 {
   border: 0;
   background-color: transparent;
@@ -72,8 +68,8 @@
   color: var(--color-white);
   display: inline-block;
 }
-.email-or-username,
-.password {
+.email-or-username1,
+.password1 {
   font-weight: 300;
   font-size: var(--font-size-xl);
   outline: 0;
@@ -81,7 +77,7 @@
   left: 7.16%;
   color: var(--color-gray);
 }
-.password {
+.password1 {
   top: 44.28%;
 }
 .or-continue-with {
@@ -90,8 +86,8 @@
   left: 28.96%;
   font-weight: 600;
 }
-.frame-child1,
-.rectangle-button {
+.frame-child3,
+.frame-child4 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -103,16 +99,16 @@
   bottom: 0;
   border-radius: var(--br-41xl);
 }
-.rectangle-button {
+.frame-child3 {
   right: 53.73%;
   left: 0;
   opacity: 0.6;
 }
-.frame-child1 {
+.frame-child4 {
   right: 0;
   left: 53.73%;
 }
-.flat-color-iconsgoogle {
+.flat-color-iconsgoogle1 {
   position: absolute;
   height: 4.99%;
   width: 7.16%;
@@ -124,8 +120,8 @@
   overflow: hidden;
   max-height: 100%;
 }
-.facebook,
-.google {
+.facebook1,
+.google1 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -139,7 +135,7 @@
   text-align: left;
   display: inline-block;
 }
-.google {
+.google1 {
   top: 94.39%;
   left: 68.66%;
   color: var(--color-dodgerblue);

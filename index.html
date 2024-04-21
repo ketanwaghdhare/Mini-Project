@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,300;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Imprima:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="landing-page">
+      <img class="image-1-icon" alt="" src="./public/image-1@2x.png" />
+
+      <img
+        class="landing-page-child"
+        alt=""
+        src="./public/rectangle-2.svg"
+        id="rectangle"
+      />
+
+      <img
+        class="landing-page-item"
+        alt=""
+        src="./public/rectangle-1@2x.png"
+        id="rectangleImage"
+      />
+
+      <button class="login2" id="login">Login</button>
+      <button class="sign-up" id="signUp">Sign up</button>
+      <img
+        class="picsart-24-03-15-17-26-10-296-icon8"
+        alt=""
+        src="./public/picsart-240315-172610296-1@2x.png"
+      />
+
+      <b class="watch-inspire-innovate-container">
+        <p class="watch">Watch</p>
+        <p class="inspire">Inspire,</p>
+        <p class="innovate">Innovate</p>
+      </b>
+      <div class="the-only-limit-container">
+        <p class="blank-line">&nbsp;</p>
+        <p class="the-only-limit">
+          "The only limit to your project is the extent of your imagination.
+          Believe in your vision, and watch it unfold into greatness."
+        </p>
+      </div>
+      <img class="image-45-icon" alt="" src="./public/image-45@2x.png" />
+
+      <img
+        class="projectmanagement-1-icon"
+        alt=""
+        src="./public/projectmanagement-1@2x.png"
+      />
+
+      <div class="projects-are-the-container">
+        <p class="blank-line1">&nbsp;</p>
+        <p class="blank-line2">&nbsp;</p>
+        <p class="projects-are-the">
+          "Projects are the building blocks of progress. With
+        </p>
+        <p class="dedication-and-determination">
+          dedication and determination, you can turn your
+        </p>
+        <p class="vision-into-reality">vision into reality."</p>
+      </div>
+      <b class="project2">“PROJECT”</b>
+      <div class="every-project-is-container">
+        <p class="every-project-is">
+          "Every project is a journey to excellence. Embrace the
+        </p>
+        <p class="challenges-and-celebrate">
+          challenges and celebrate the victories."
+        </p>
+      </div>
+      <div class="a-project-is-container">
+        <p class="a-project-is">
+          "A project is not just a task, it's a canvas where your
+        </p>
+        <p class="ideas-paint-the">ideas paint the future."</p>
+      </div>
+    </div>
+
+    <script>
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./sign-in.html";
+        });
+      }
+      
+      var rectangleImage = document.getElementById("rectangleImage");
+      if (rectangleImage) {
+        rectangleImage.addEventListener("click", function (e) {
+          window.location.href = "./login-page.html";
+        });
+      }
+      
+      var login = document.getElementById("login");
+      if (login) {
+        login.addEventListener("click", function (e) {
+          window.location.href = "./login-page.html";
+        });
+      }
+      
+      var signUp = document.getElementById("signUp");
+      if (signUp) {
+        signUp.addEventListener("click", function (e) {
+          window.location.href = "./sign-in.html";
+        });
+      }
+      </script>
+  </body>
+</html>

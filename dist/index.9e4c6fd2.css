@@ -1,0 +1,165 @@
+.image-1-icon {
+  object-fit: cover;
+  width: 626px;
+  height: 697px;
+  position: absolute;
+  top: 172px;
+  left: 740px;
+}
+
+.landing-page-child, .landing-page-item {
+  border-radius: var(--br-41xl);
+  cursor: pointer;
+  width: 138px;
+  height: 57px;
+  position: absolute;
+  top: 59px;
+  left: 1228px;
+}
+
+.landing-page-item {
+  object-fit: cover;
+  width: 141px;
+  height: 54px;
+  top: 61px;
+  left: 1051px;
+}
+
+.login2, .sign-up {
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  letter-spacing: .01em;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  background-color: #0000;
+  border: 0;
+  width: 91px;
+  height: 36px;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: 74px;
+  left: 1093px;
+}
+
+.sign-up {
+  left: 1260px;
+}
+
+.picsart-24-03-15-17-26-10-296-icon8 {
+  object-fit: cover;
+  width: 178px;
+  height: 178px;
+  position: absolute;
+  top: 36px;
+  left: 34px;
+}
+
+.innovate, .inspire, .watch {
+  margin: 0;
+}
+
+.watch-inspire-innovate-container {
+  font-size: 120px;
+  font-family: var(--font-inter);
+  width: 594px;
+  height: 458px;
+  display: inline-block;
+  position: absolute;
+  top: 260px;
+  left: 65px;
+}
+
+.blank-line, .the-only-limit {
+  margin: 0;
+}
+
+.the-only-limit-container {
+  font-size: var(--font-size-xl);
+  letter-spacing: .01em;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  width: 437px;
+  height: 125px;
+  display: inline-block;
+  position: absolute;
+  top: 741px;
+  left: 65px;
+}
+
+.image-45-icon, .projectmanagement-1-icon {
+  object-fit: cover;
+  width: 1440px;
+  height: 260px;
+  position: absolute;
+  top: 1749px;
+  left: 0;
+}
+
+.projectmanagement-1-icon {
+  border-radius: var(--br-41xl);
+  width: 793px;
+  height: 454px;
+  top: 960px;
+  left: 38px;
+}
+
+.blank-line1, .blank-line2, .dedication-and-determination, .projects-are-the, .vision-into-reality {
+  margin: 0;
+}
+
+.project2, .projects-are-the-container {
+  line-height: 24px;
+  position: absolute;
+  top: 1235px;
+  left: 866px;
+}
+
+.project2 {
+  font-size: 60px;
+  font-family: var(--font-inconsolata);
+  color: var(--color-white);
+  align-items: center;
+  width: 273px;
+  display: flex;
+  top: 1019px;
+  left: 998px;
+}
+
+.challenges-and-celebrate, .every-project-is {
+  margin: 0;
+}
+
+.every-project-is-container {
+  line-height: 24px;
+  position: absolute;
+  top: 1134px;
+  left: 861px;
+}
+
+.a-project-is, .ideas-paint-the {
+  margin: 0;
+}
+
+.a-project-is-container {
+  line-height: 24px;
+  position: absolute;
+  top: 1209px;
+  left: 861px;
+}
+
+.landing-page {
+  border-radius: var(--br-41xl);
+  background-color: var(--color-lightsteelblue);
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-imprima);
+  width: 100%;
+  height: 2045px;
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
